@@ -73,6 +73,10 @@ master_tops:
 However, in this case `intergalactic_tops` becomes a part of Salt
 configuration. Which is not any good.
 
+# Solution
+
+PR upstream: https://github.com/saltstack/salt/pull/40113
+
 # Drawbacks
 [drawbacks]: #drawbacks
 
