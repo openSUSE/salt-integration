@@ -28,6 +28,9 @@ This is the whole RFC. You should:
 Possible drawbacks that can be a deal-breaker for all that.
 Delete this, if none.
 
+# Solution
+
+Fill this one, once found. Link to PR or documentation, or howto etc.
 
 # Unknown
 [unknown]: #unknown
