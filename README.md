@@ -1,3 +1,5 @@
+# This repository has been archived - it is not longer used 
+
 # Team Integration RFCs
 
 ## Why?
